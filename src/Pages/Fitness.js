@@ -18,11 +18,11 @@ const Fitness = () => {
       </marquee>
       <p>okay okay my ripped babelaid!</p>
       <p>fitness time it is!</p>
-        <p>go get your spiffy lil
-        workout clothes on and lets make some heckin moves!</p>
+      <p>go get your spiffy lil workout clothes on </p>
+      <p>& lets make some heckin moves!</p>
       <p>
         <QuestionLink to="/fitness2">
-          🧦  Once you're dressed click here. 🧦
+          🧦 Once you're dressed click here. 🧦
         </QuestionLink>
       </p>
     </section>
